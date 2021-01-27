@@ -1,4 +1,4 @@
-# Hlava první - úvodní ustanovení
+# Hlava první - Úvodní ustanovení
 
 ## Článek 1 - Rada starších
 (1) Rada starších je vrcholným rozhodovacím organém ve společnosti. <br>
@@ -12,7 +12,7 @@
 (1) Změna této Ústavy je možná pouze 100% shodou Rady starších.
 
 
-# Hlava druhá - exekutiva
+# Hlava druhá - Exekutiva
 
 ## Článek 4 - Rozdělení kompetencí
 (1) Rozdělení kompetencí vzniká změnou úvodního dokumentu. <br>
@@ -26,7 +26,7 @@
 (4) V případě že námitku nevznesl člen rady starších, Rada starších rozhodne o jejím vyřešení hlasováním kdy musí dojít k nadpoloviční shodě.
 
 
-# Hlava třetí - neveřejná část
+# Hlava třetí - Neveřejná část
 
 ## Článek 6 - Definice neveřejné části
 (1) Nedílnou součástí Ústavy je její neveřejná část. <br>
