@@ -6,7 +6,7 @@
 (3) Rada vznikla na valné hromadě 26. ledna 2021.
 
 ## Článek 2 - Trest
-(1) Nejvyššíme trestem je neúspěch společnosti.
+(1) Nejvyšším trestem je neúspěch společnosti.
 
 ## Článek 3 - Změna
 (1) Změna této Ústavy je možná pouze 100% shodou Rady starších.
@@ -16,14 +16,14 @@
 
 ## Článek 4 - Rozdělení kompetencí
 (1) Rozdělení kompetencí vzniká změnou úvodního dokumentu. <br>
-(2) Každý obhospodařovatel kompetence je nazýván stakeholder. <br>
-(3) Každou kompetenci lze rozdělit na dílčí kompetence jejím stakeholderem. <br>
-(4) Každý stakeholder dané kompetence musí pro exekuci dané kompetence sepsat guide (příručku), kterou je povinnen odprezentovat na nejbližším zasedání Radě starších.  <br>
-(5) Bod (5) neplatí pro dílčí kompetence, jelikož pravidla dilčí kompetence určuje stakeholder nadřízené kompetence. <br>
+(2) Každý obhospodařovatel kompetence je nazýván Stakekolder. <br>
+(3) Každou kompetenci lze rozdělit na dílčí kompetence jejím Stakekolderem. <br>
+(4) Každý Stakekolder dané kompetence musí pro exekuci dané kompetence sepsat Guide (příručku), kterou je povinnen odprezentovat na nejbližším zasedání Radě starších.  <br>
+(5) Bod (5) neplatí pro dílčí kompetence, jelikož pravidla dilčí kompetence určuje Stakekolder nadřízené kompetence. <br>
 
 
 ## Článek 5 - Námitka
-(1) Každý obhospodařovatel (stakeholder) a nebo člen rady starších má právo na vznesení námitky. <br>
+(1) Každý obhospodařovatel (Stakekolder) a nebo člen rady starších má právo na vznesení námitky. <br>
 (2) Každá námitka musí být probrána na nejbližší radě starších. <br>
 (3) Člen rady starších, který je za danou věc zodpovědný má právo veta, vyjma situací přímo ohrožujících stabilitu nebo existenci firmy. <br>
 (4) V případě že námitku nevznesl člen rady starších, Rada starších rozhodne o jejím vyřešení hlasováním kdy musí dojít k nadpoloviční shodě.
