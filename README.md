@@ -17,7 +17,10 @@
 ## Článek 4 - Rozdělení kompetencí
 (1) Rozdělení kompetencí vzniká změnou úvodního dokumentu. <br>
 (2) Každý obhospodařovatel kompetence je nazýván stakeholder. <br>
-(3) Každý stakeholder dané oblasti musí pro exekuci dané kompetence sepsat guide (příručku), kterou je povinnen odprezentovat na nejbližším zasedání Radě starších. <br>
+(3) Každou kompetenci lze rozdělit na dílčí kompetence jejím stakeholderem. <br>
+(4) Každý stakeholder dané kompetence musí pro exekuci dané kompetence sepsat guide (příručku), kterou je povinnen odprezentovat na nejbližším zasedání Radě starších.  <br>
+(5) Bod (5) neplatí pro dílčí kompetence, jelikož pravidla dilčí kompetence určuje stakeholder nadřízené kompetence. <br>
+
 
 ## Článek 5 - Námitka
 (1) Každý obhospodařovatel (stakeholder) a nebo člen rady starších má právo na vznesení námitky. <br>
