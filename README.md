@@ -19,7 +19,7 @@
 (2) Každý obhospodařovatel kompetence je nazýván Stakekolder. <br>
 (3) Každou kompetenci lze rozdělit na dílčí kompetence jejím Stakekolderem. <br>
 (4) Každý Stakekolder dané kompetence musí pro exekuci dané kompetence sepsat Guide (příručku), kterou je povinnen odprezentovat na nejbližším zasedání Radě starších.  <br>
-(5) Bod (5) neplatí pro dílčí kompetence, jelikož pravidla dilčí kompetence určuje Stakekolder nadřízené kompetence. <br>
+(5) Bod (4) neplatí pro dílčí kompetence, jelikož pravidla dilčí kompetence určuje Stakekolder nadřízené kompetence. <br>
 
 
 ## Článek 5 - Námitka
